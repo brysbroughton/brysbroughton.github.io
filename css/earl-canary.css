@@ -1,0 +1,63 @@
+body {
+	background-color:#EEE;
+}
+.nav-wrapper {
+	overflow:hidden;
+}
+.nav-wrapper .row {
+	margin-bottom: 0px;
+}
+#navBraceFlare {
+	height:.77777775rem;
+}
+.card-content > :first-child {
+	margin-top:0px;
+}
+.earl-canary .sidenav a,
+.earl-canary nav a {
+	color: #ffca28;
+}
+/*sticky footer recommended by materialize docs*/
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+/*logo*/
+.earl-canary .brand-logo {
+	position: static;
+}
+.logo-picture svg {
+	height: 100%;
+	line-height: 100%;
+	fill: currentColor;
+}
+.logo-picture, .logo-text {
+	display: inline-block;
+	height: 64px;
+	line-height: 64px;
+	padding: 5px;
+	box-sizing: border-box;
+}
+.logo-picture ~:last-child::after {
+	content:' ';
+	display:block;
+	clear:both;
+}
+/*screen reader only*/
+.sr-only {
+	position:absolute;
+	height:0px;
+	width:0px;
+	left:-90000px;
+}
+/*homepage parallax*/
+.parallax-container{
+	height:70vh;
+}
+.parallax-container img {
+	height:100vh;
+}
