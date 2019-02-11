@@ -61,3 +61,6 @@ main {
 .parallax-container img {
 	height:100vh;
 }
+.earl-canary .parallax-container .parallax img {
+	min-width:200px;
+}
