@@ -2,6 +2,7 @@ baseURL = 'http://brysbroughton.com'
 languageCode = 'en-us'
 title = 'Brys Broughton | Software Engineer'
 theme = "devresume"
+publishdir = 'docs'
 
 
 
