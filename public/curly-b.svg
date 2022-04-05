@@ -1,0 +1,31 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 47.624999 47.625001" version="1.1" id="svg2008" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="curly-brace-b (copy).svg">
+  <defs id="defs2002">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2603">
+      <rect style="opacity:0.49000005;fill-opacity:1;stroke-width:0.05291667;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" id="rect2605" width="35.38802" height="35.435268" x="21.119419" y="247.95757"></rect>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="4" inkscape:cx="82.72434" inkscape:cy="78.102433" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" units="px" inkscape:window-width="2880" inkscape:window-height="1491" inkscape:window-x="0" inkscape:window-y="55" inkscape:window-maximized="1">
+    <inkscape:grid type="xygrid" id="grid2553"></inkscape:grid>
+  </sodipodi:namedview>
+  <metadata id="metadata2005">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+        <dc:title></dc:title>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-249.37498)">
+    <g aria-label="{" transform="matrix(-11.906252,0,0,10.3713,-50.695623,272.37438)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:STIX;-inkscape-font-specification:STIX;letter-spacing:0px;word-spacing:0px;opacity:1;fill-opacity:1;stroke:none" id="flowRoot2626-21-7-4-0-5">
+      <path style="fill-opacity:1;stroke-width:4.19992542" d="m -8.2197253,-1.0097749 c 1.656,0.37630665 2,1.232837 2,2.8007812 v 1.6347656 1.8769532 0.00195 c 0,1.7352189 -0.6394532,2.2674209 -2.439454,2.68555 1.8000009,0.3971906 2.439454,0.9503249 2.439454,2.6855439 v 2.078125 1.433594 c 0,1.567944 -0.344,2.426428 -2,2.802734 1.6079998,-0.02091 3.0125692,-0.147122 3.6845691,-0.523428 0.6720016,-0.376307 2.0957031,-1.233565 2.0957031,-2.404297 v -3.699219 c 0,-1.4425086 -2.6e-6,-1.3625854 1,-2.3730546 -1.0000026,-0.9895308 -1,-0.9096243 -1,-2.373039 V 1.8945312 c 0,-1.19163759 -1.399703,-2.00650583 -2.0957031,-2.38281245 -0.6959998,-0.37630819 -2.1005691,-0.50060077 -3.6845691,-0.52149365 z" transform="matrix(-0.22222222,0,0,0.25511111,-8.5777772,-1.9599957)" id="path2634-7-4-8-2-6" inkscape:connector-curvature="0" sodipodi:nodetypes="csccscscscssscsscc"></path>
+    </g>
+    <g aria-label="{" transform="matrix(11.906239,0,0,10.371288,88.899918,269.70271)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:STIX;-inkscape-font-specification:STIX;letter-spacing:0px;word-spacing:0px;opacity:1;fill-opacity:1;stroke:none" id="flowRoot2626">
+      <path d="m -6.1333333,2.6320042 c -0.368,-0.096 -0.444444,-0.3146707 -0.444444,-0.7146707 v -0.896 l 3e-7,-0.68532927 -3e-7,-0.68533748 V -1.2453333 c 0,-0.4 0.076444,-0.6186624 0.444444,-0.7146624 V -1.96 c -0.352,0.00533 -0.4906667,0.037333 -0.6453333,0.1333334 -0.1546667,0.096 -0.4657773,0.304 -0.4657773,0.608 v 0.94933335 c 0,0.37333334 0,0.35289717 -0.2222228,0.60533748 0.2222228,0.25778191 0.2222228,0.23732921 0.2222228,0.60532922 V 1.8853335 c 0,0.2986667 0.3164436,0.5173333 0.4657773,0.6133333 0.1493333,0.096 0.288,0.128 0.6453333,0.1333334 z" id="path2634" inkscape:connector-curvature="0" sodipodi:nodetypes="csscsscccsscssccc"></path>
+    </g>
+    <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:STIX;-inkscape-font-specification:STIX;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill-opacity:1;stroke:none" transform="matrix(-1.190625,0,0,1.0371298,-4.1275,294.27025)" aria-label="{" id="g2776"></g>
+    <g aria-label="{" transform="matrix(-1.190625,0,0,1.0371298,-11.535833,293.74108)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:STIX;-inkscape-font-specification:STIX;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill-opacity:1;stroke:none" id="flowRoot2626-21-7-6"></g>
+    <g aria-label="{" transform="matrix(-1.190625,0,0,1.0371298,-10.096644,294.53742)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:STIX;-inkscape-font-specification:STIX;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill-opacity:1;stroke:none" id="flowRoot2626-21-7-4-0"></g>
+    <g id="g2993" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:STIX;-inkscape-font-specification:STIX;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill-opacity:1;stroke:none" transform="matrix(1.190625,0,0,1.0371298,5.4504166,294.27025)" aria-label="{"></g>
+  </g>
+</svg>
