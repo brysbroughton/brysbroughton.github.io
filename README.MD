@@ -17,6 +17,8 @@ git pull --recurse-submodules
 hugo server -D
 ```
 
+View the site running locally at `http://localhost:1313/`
+
 # How to push submodules
 
 ```
