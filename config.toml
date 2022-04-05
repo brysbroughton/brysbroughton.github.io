@@ -1,4 +1,4 @@
-baseURL = 'http://brysbroughton.com'
+baseURL = 'https://brysbroughton.com/'
 languageCode = 'en-us'
 title = 'Brys Broughton | Software Engineer'
 theme = "devresume"

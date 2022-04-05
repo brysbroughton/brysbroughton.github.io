@@ -22,3 +22,8 @@ hugo server -D
 ```
 recurse-submodules=<check|on-demand>
 ```
+
+# Build pages for site
+build the pages to the /doc folder, then push to github to go live
+
+`hugo -D`
