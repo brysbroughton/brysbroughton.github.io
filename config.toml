@@ -94,7 +94,7 @@ theme = "devresume"
 
         [[params.education.list]]
         degree = "Graduate Certificate in Data Science"
-        university = "University Maryland, College Park"
+        university = "University of Maryland, College Park"
         dates = "2019 - 2020"
         [[params.education.list]]
         degree = "Bachelor of Science in Computer Science"
@@ -148,13 +148,13 @@ theme = "devresume"
         enable = true
 
         [[params.interests.list]]
-        name = "Climbing"
+        name = "Hiking, Running"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Board Games"
         [[params.interests.list]]
-        name = "Photography"
+        name = "Spanish literature"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Volunteer at Meals on Wheels"
 
 
 
@@ -178,54 +178,67 @@ theme = "devresume"
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Software Engineer"
-        dates = "2019 - Present"
-        company = "Google"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+        title = "Software Developer III"
+        dates = "2016/05 – Present"
+        company = "Federal Reserve Board of Governors"
+        details = "Develops software solutions for enterprise web applications, internal process automation, and web content management. Optimizes new and existing software for performance, security and accessibility. Key technologies: C# .Net, .Net Core, Vue.js, Bootstrap, T-SQL, Azure DevOps CI/CD, WebAPI, REST, OpenText CMS (WSMS), Git "
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Lead architecture and development of time-sensitive publishing system, securing the embargoed release of sensitive publications"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Lead architecture and development of configurable workflow automation system for critical publishing, streamlining inter-department transmission and oversite"
         [[params.experience.list.items]]
-        details = "Etiam ultricies nisi vel augue."
+        details = "Managed the development and execution of 5000+ web page migration project"
+        [[params.experience.list.items]]
+        details = "Designed extensible service-oriented architecture for long running CMS batch jobs"
+        
 
         [[params.experience.list]]
-        title = "Lead Software Developer"
-        dates = "2016 - 2019"
-        company = "Apple"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        title = "Accessibility Analyst"
+        dates = "2016/01 – 2016/05"
+        company = "Level Access"
+        details = "Analyzed websites and applications to ensure equal accessibility for users of all abilities. Provided remedial code samples to bridge any gaps in accessibility. Tested with assistive software to ensure access. Key technologies: JavaScript, HTML, CSS, JAWS, NVDA, VoiceOver, TalkBack"
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Remediated 30+ websites, desktop and mobile applications"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Automated 508, WCAG compliance reporting tasks with JavaScript macros"
 
         [[params.experience.list]]
-        title = "Senior Software Developer"
-        dates = "2014 - 2016"
-        company = "Dropbox"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        title = "Full-Stack Developer"
+        dates = "2015/09 – 2016/01"
+        company = "E.J. Caimen"
+        details = "Enabled business analysts to track production processes through the development of new consolidated reporting dashboards. Key technologies: ASP.Net Framework, C#, MVC, Entity Framework (EF), T-SQL, JavaScript, jQuery, Bootstrap, Jira, Team Foundation Server"
+        [[params.experience.list.items]]
+        details = "Delivered consolidated web UI with window into disparate KPI’s"
+        [[params.experience.list.items]]
+        details = "Delivered working increments with unit tests according to Agile Scrum and TDD"
 
         [[params.experience.list]]
-        title = "Senior Developer"
-        dates = "2013 - 2014"
-        company = "Uber"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        title = "Coordinator of Web Services"
+        dates = "2014/06 – 2015/08"
+        company = "Ozarks Technical Community College"
+        details = "Oversaw new website and feature requests, research and development of new technologies, and the maintenance of existing systems. Coordinated multiple concurrent projects, managed student developers, and met competing deadlines. Key technologies: PHP, Apache, IIS, JavaScript, jQuery, REST, OAuth, RedDot/OpenText WSM, WordPress, Git, Asana, SOAP, Python, Bash, Google Mini, Open Graph (OG) microdata, MySQL, C# .Net"
+        [[params.experience.list.items]]
+        details = "Administered enterprise public website, CMS of 7500+ pages"
+        [[params.experience.list.items]]
+        details = "Coordinated all incoming site/feature requests, end-user training, and support on campus"
+        [[params.experience.list.items]]
+        details = "Optimized website for accessibility, speed, search engine ranking (SEO)"
+        [[params.experience.list.items]]
+        details = "Trained and managed small team of student developers in Agile SDLC (Scrum) and special projects"
 
         [[params.experience.list]]
-        title = "Backend Developer"
-        dates = "2014 - 2016"
-        company = "Amazon"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-
-        [[params.experience.list]]
-        title = "Frontend Developer"
-        dates = "2013 - 2014"
-        company = "Startup"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
-
+        title = "Web Developer"
+        dates = "2012/07 – 2014/06"
+        company = "Missouri State University office of web and new media"
+        details = "Developed new websites and web application for university programs and departments. Implemented website redesigns. Maintained databases and database-driven applications. Key technologies: ASP.Net, C#, Web Forms, T-SQL, JavaScript, jQuery, Google Closure, OAuth, IIS"
+        [[params.experience.list.items]]
+        details = "Implemented 25+ site redesigns"
+        [[params.experience.list.items]]
+        details = "Delivered reusable Flickr slideshow CMS module"
 
 
     [params.custom]
+        enable = true
         title="Custom section"
 
 
@@ -235,7 +248,7 @@ theme = "devresume"
 
 
     [params.projects]
-        enable = true
+        enable = false
 
         [[params.projects.list]]
         title = "Project Lorem Ipsum"
@@ -262,7 +275,7 @@ theme = "devresume"
 
 
     [params.information]
-        enable = true
+        enable = false
 
         [[params.information.list]]
         title = "Papers"
@@ -287,16 +300,16 @@ theme = "devresume"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/brysbroughton"
+        title = "brysbroughton"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
-        [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
+        url = "//linkedin.com/in/brysbroughton"
+        title = "brysbroughton"
+        # [[params.social.list]]
+        # icon = "fab fa-twitter-square"
+        # url = "//twitter.com/username"
+        # title = "@username"
 
 
 
