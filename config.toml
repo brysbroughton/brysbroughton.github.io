@@ -38,8 +38,8 @@ googleAnalytics = 'UA-59921787-1'
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:417-459-2742"
-        text = "417-459-2742"
+        url = "tel:240-367-6069"
+        text = "240-367-6069"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:brysbroughton@gmail.com"
